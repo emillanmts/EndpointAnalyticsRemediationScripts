@@ -12,10 +12,13 @@ Context: 64 Bit
 
 $ConsumerApps = @{
     "Microsoft.XboxApp"                      = "Xbox App"
-    "Microsoft.XboxGameOverlay"              = "Xbox Game Overlay"
+    "Microsoft.XboxGamingOverlay"            = "Xbox Game Overlay"
     "Microsoft.Xbox.TCUI"                    = "Xbox TCUI"
     "Microsoft.MicrosoftSolitaireCollection" = "Solitaire Collection"
     "Microsoft.549981C3F5F10"                = "Cortana"
+    "Microsoft.MicrosoftOfficeHub"           = "Office"
+    "Microsoft.GamingApp"                    = "Xbox"
+    "Microsoft.OutlookForWindows"            = "Outlook"
 }
 
 
